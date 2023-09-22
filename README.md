@@ -1,0 +1,2 @@
+# minidic
+mini dictionary
